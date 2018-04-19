@@ -19,5 +19,5 @@ import pandas
  data
  '/Users/theamurtagh/Desktop/Python work/Projet Data/Iris.csv'
 
-: print(dataset.head)
+: print(dataset)
 
