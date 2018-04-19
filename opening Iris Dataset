@@ -1,0 +1,7 @@
+#Project Iris- Thea Murtagh
+import numpy
+
+data = numpy.genfromtxt('/Users/theamurtagh/Desktop/Python Work/Project Data/Iris.csv', delimiter=',')
+
+
+print(data)
