@@ -3,5 +3,8 @@ import numpy
 
 data = numpy.genfromtxt('/Users/theamurtagh/Desktop/Python Work/Project Data/Iris.csv', delimiter=',')
 
+"remove NAN values"
 
-print(data)
+data = data[~numpy.isnan(data)]
+print (data)
+
