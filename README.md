@@ -20,9 +20,14 @@ The Iris Setosa is characterized with having tall branching stems, medium green 
 ## Iris  Versicolor
 The Iris Versicolor is known as the purple Iris in Ireland and UK Versicolor means variously coloured. Its flowers are typically pale to deep blue and bloom during may to july. Its leaves are sword shaped and grow from the lowest part of its stem and it has properties that make it mildly poisonous to humans. Its mass roots protect shorelines of rivers and lakes
 
+![iris_versicolor_3](https://user-images.githubusercontent.com/36824025/39409205-d29ede7c-4bda-11e8-9471-0d49a7149d2e.jpg)
+
+
 ## Iris Virginica
 Has light blue to deep violet flowers. The plants are up to two feet tall. It grows commonly in wet ditches , swamps, meadows and the edges of streams. 
 The Cherokee use this medicinal plant for traditional medicine uses. The root is pounded into a paste that is used as a salve for skin. An infusion made from the root is used to treat complaints of the liver
+
+
 
 # My Investigation of the Iris Dataset
 For this investigation I began with importing the dataset and opening it in Python. I tried different tools to open the file with and used Pandas to process the text, as i found it useful to be able to see the species name and which measurements referred to what part.
