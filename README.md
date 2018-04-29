@@ -27,6 +27,9 @@ The Iris Versicolor is known as the purple Iris in Ireland and UK Versicolor mea
 Has light blue to deep violet flowers. The plants are up to two feet tall. It grows commonly in wet ditches , swamps, meadows and the edges of streams. 
 The Cherokee use this medicinal plant for traditional medicine uses. The root is pounded into a paste that is used as a salve for skin. An infusion made from the root is used to treat complaints of the liver
 
+![iris_virginica](https://user-images.githubusercontent.com/36824025/39409211-f210b758-4bda-11e8-8e81-14b787c4fb81.jpg)
+
+
 
 
 # My Investigation of the Iris Dataset
