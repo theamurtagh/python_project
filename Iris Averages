@@ -1,4 +1,7 @@
-
+data = numpy.genfromtxt( '/Users/theamurtagh/Desktop/Python work/Projet Data/Iris.csv', delimiter=',')
+#/Users/theamurtagh/Desktop/Python work/Projet Data/Iris.csv
+#data = data[~numpy.isnan(data)]
+#print (data)
 
  data [0]
  array([ 5.1,  3.5,  1.4,  0.2,  nan])
