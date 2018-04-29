@@ -25,7 +25,6 @@ The Cherokee use this medicinal plant for traditional medicine uses. The root is
 For this investigation I began with importing the dataset and opening it in Python. I tried different tools to open the file with and used Pandas to process the text, as i found it useful to be able to see the species name and which measurements referred to what part.
 
 
-
 I took averages from each column with the following results. 
 
 | COL 1 | COL 2  | COL 3 | COL 4 |
@@ -51,6 +50,10 @@ I used Matplotlib to generate a histogram
 ![figure_1](https://user-images.githubusercontent.com/36824025/39409094-e727e318-4bd8-11e8-9312-9053009524e1.png)
 
 I then used scattermatrix to generate a scatterplot diagram.
+
+
+![figure_1](https://user-images.githubusercontent.com/36824025/39409125-538063a0-4bd9-11e8-80bb-feb2a6d09333.png)
+
 
 
 
