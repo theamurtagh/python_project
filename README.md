@@ -48,9 +48,9 @@ I studied a tutorial on Machine learning and was able to the following infomrati
 
 I used Matplotlib to generate a histogram
 
+![figure_1](https://user-images.githubusercontent.com/36824025/39409094-e727e318-4bd8-11e8-9312-9053009524e1.png)
 
-
-
+I then used scattermatrix to generate a scatterplot diagram.
 
 
 
