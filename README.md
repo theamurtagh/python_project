@@ -67,8 +67,9 @@ I then used scattermatrix to generate a scatterplot diagram.
 
 ![figure_1](https://user-images.githubusercontent.com/36824025/39409125-538063a0-4bd9-11e8-80bb-feb2a6d09333.png)
 
-| 1  | https://en.wikipedia.org/wiki/Iris_flower_data_set                           |
+| 0  | References                                                                   |
 |----|------------------------------------------------------------------------------|
+| 1  | https://en.wikipedia.org/wiki/Iris_flower_data_set                           |
 | 2  | http://www.perennials.com/plants/iris-setosa-var-arctica.html                |
 | 3  | https://www.botanical.com/botanical/mgmh/i/iriver11.html                     |
 | 4  | https://www.fs.fed.us/wildflowers/beauty/iris/Blue_Flag/iris_virginica.shtml |
@@ -78,6 +79,5 @@ I then used scattermatrix to generate a scatterplot diagram.
 | 8  | https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners      |
 | 9  | https://www.springboard.com/blog/data-mining-python-tutorial/                |
 | 10 | https://machinelearningmastery.com/machine-learning-in-python-step-by-step/  |
-
 
 
