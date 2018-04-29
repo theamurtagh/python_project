@@ -67,20 +67,17 @@ I then used scattermatrix to generate a scatterplot diagram.
 
 ![figure_1](https://user-images.githubusercontent.com/36824025/39409125-538063a0-4bd9-11e8-80bb-feb2a6d09333.png)
 
-
-References: 
- 1  | https://en.wikipedia.org/wiki/Iris_flower_data_set                           |   |
-|----|------------------------------------------------------------------------------|---|
-| 2  | http://www.perennials.com/plants/iris-setosa-var-arctica.html                |   |
-| 3  | https://www.botanical.com/botanical/mgmh/i/iriver11.html                     |   |
-| 4  | https://www.fs.fed.us/wildflowers/beauty/iris/Blue_Flag/iris_virginica.shtml |   |
-| 5  | https://en.wikipedia.org/wiki/Iris_virginica                                 |   |
-| 6  | https://blog.udacity.com/2015/02/how-to-start-learning-data-analysis.html    |   |
-| 7  | http://pandas.pydata.org                                                     |   |
-| 8  | https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners      |   |
-| 9  | https://www.springboard.com/blog/data-mining-python-tutorial/                |   |
-| 10 | https://machinelearningmastery.com/machine-learning-in-python-step-by-step/  |   |
-
+| 1  | https://en.wikipedia.org/wiki/Iris_flower_data_set                           |
+|----|------------------------------------------------------------------------------|
+| 2  | http://www.perennials.com/plants/iris-setosa-var-arctica.html                |
+| 3  | https://www.botanical.com/botanical/mgmh/i/iriver11.html                     |
+| 4  | https://www.fs.fed.us/wildflowers/beauty/iris/Blue_Flag/iris_virginica.shtml |
+| 5  | https://en.wikipedia.org/wiki/Iris_virginica                                 |
+| 6  | https://blog.udacity.com/2015/02/how-to-start-learning-data-analysis.html    |
+| 7  | http://pandas.pydata.org                                                     |
+| 8  | https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners      |
+| 9  | https://www.springboard.com/blog/data-mining-python-tutorial/                |
+| 10 | https://machinelearningmastery.com/machine-learning-in-python-step-by-step/  |
 
 
 
