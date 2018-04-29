@@ -35,6 +35,8 @@ The Cherokee use this medicinal plant for traditional medicine uses. The root is
 # My Investigation of the Iris Dataset
 For this investigation I began with importing the dataset and opening it in Python. I tried different tools to open the file with and used Pandas to process the text, as i found it useful to be able to see the species name and which measurements referred to what part.
 
+<img width="634" alt="screen shot 2018-04-29 at 17 12 47" src="https://user-images.githubusercontent.com/36824025/39409384-f68f1d44-4bdd-11e8-8897-a93e876bebb2.png">
+
 
 I took averages from each column with the following results. 
 
