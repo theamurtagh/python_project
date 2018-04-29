@@ -38,7 +38,7 @@ For this investigation I began with importing the dataset and opening it in Pyth
 
 I took averages from each column with the following results. 
 
-| COL 1 | COL 2  | COL 3 | COL 4 |
+| Col 1 | COL 2  | COL 3 | COL 4 |
 |-------|--------|-------|-------|
 | 5.1   | 3.5    | 1.4   | 0.2   |
 
