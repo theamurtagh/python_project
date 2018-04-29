@@ -2,3 +2,29 @@
 
 Project to investigate  **fishers iris dataset** (https://en.wikipedia.org/wiki/Iris_flower_data_set)
 ![iris_germanica_ purple_bearded_iris _wakehurst_place _uk_-_diliff](https://user-images.githubusercontent.com/36824025/39383140-117c858a-4a60-11e8-9ed2-4c565890401f.jpg)
+
+## The Iris Dataset 
+The Iris Flower data set was introduced by the statistician and biologist Ronald Fisher in 1936. It is also sometimes called Andersons Iris Dataset because Anderson collected the data. The Iris data set provides the measurements in cms of the variables sepal length and width and petal length & width for 50 flowers from three species of Iris.  
+
+## What is the function of the Sepal 
+The sepal refers to the outer parts of the flower, typicall green and leaf like.  It is first part of a flower to form.Sepals function to protect the developing flower and keep it from drying out.
+
+## What is the function of the Petal 
+Petals are modified leaves that surround the reproductive parts of flowers. They are often brightly colored or unusually shaped to attract pollinators. Collectively they are called carolla 
+
+## Iris Setosa
+The Iris Setosa is characterized with having tall branching stems, medium green leaves and violet to purple to blue flowers, though there are also plants with pink and white flowers. It is sometimes called the beachhead Iris due to its tolerance to thrive in salty maritime conditions. It is also on the red list in Japan as an endangered species 
+## Iris  Versicolor
+The Iris Versicolor is known as the purple Iris in Ireland and UK Versicolor means variously coloured. Its flowers are typically pale to deep blue and bloom during may to july. Its leaves are sword shaped and grow from the lowest part of its stem and it has properties that make it mildly poisonous to humans. Its mass roots protect shorelines of rivers and lakes
+
+## Iris Virginica
+Has light blue to deep violet flowers. The plants are up to two feet tall. It grows commonly in wet ditches , swamps, meadows and the edges of streams. 
+The Cherokee use this medicinal plant for traditional medicine uses. The root is pounded into a paste that is used as a salve for skin. An infusion made from the root is used to treat complaints of the liver
+
+For this investigation I began with importing the dataset and opening it in Python. I tried different tools to open the file with and used Pandas to process the thext.
+
+
+
+
+
+
