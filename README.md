@@ -21,7 +21,36 @@ The Iris Versicolor is known as the purple Iris in Ireland and UK Versicolor mea
 Has light blue to deep violet flowers. The plants are up to two feet tall. It grows commonly in wet ditches , swamps, meadows and the edges of streams. 
 The Cherokee use this medicinal plant for traditional medicine uses. The root is pounded into a paste that is used as a salve for skin. An infusion made from the root is used to treat complaints of the liver
 
-For this investigation I began with importing the dataset and opening it in Python. I tried different tools to open the file with and used Pandas to process the thext.
+# My Investigation of the Iris Dataset
+For this investigation I began with importing the dataset and opening it in Python. I tried different tools to open the file with and used Pandas to process the text, as i found it useful to be able to see the species name and which measurements referred to what part.
+
+
+
+I took averages from each column with the following results. 
+
+| COL 1 | COL 2  | COL 3 | COL 4 |
+|-------|--------|-------|-------|
+| 5.1   | 3.5    | 1.4   | 0.2   |
+
+I studied a tutorial on Machine learning and was able to the following infomration summary. 
+
+|       | Sepal Length | Sepal width | Petal Length | Petal Width |
+|-------|--------------|-------------|--------------|-------------|
+| Count | 150          | 150         | 150          | 150         |
+| Mean  | 5.843333     | 3.054000    | 3.758667     | 1.198667    |
+| Std   | 0.828066     | 0.433594    | 1.764420     | 0.763161    |
+| Min   | 4.300000     | 2.000000    | 1.000000     | 0.100000    |
+| 25%   | 5.1          | 2.8         | 1.6          | 0.3         |
+| 50%   | 5.8          | 3.0         | 4.35         | 1.3         |
+| 75%   | 6.4          | 3.3         | 5.1          | 1.8         |
+| Max   | 7.9          | 4.4         | 6.9          | 2.5         |
+
+
+I used Matplotlib to generate a histogram
+
+
+
+
 
 
 
