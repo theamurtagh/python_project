@@ -14,6 +14,9 @@ Petals are modified leaves that surround the reproductive parts of flowers. They
 
 ## Iris Setosa
 The Iris Setosa is characterized with having tall branching stems, medium green leaves and violet to purple to blue flowers, though there are also plants with pink and white flowers. It is sometimes called the beachhead Iris due to its tolerance to thrive in salty maritime conditions. It is also on the red list in Japan as an endangered species 
+
+![iris setosa](https://user-images.githubusercontent.com/36824025/39409195-a86a0488-4bda-11e8-8ffc-de5cb934c52f.jpg)
+
 ## Iris  Versicolor
 The Iris Versicolor is known as the purple Iris in Ireland and UK Versicolor means variously coloured. Its flowers are typically pale to deep blue and bloom during may to july. Its leaves are sword shaped and grow from the lowest part of its stem and it has properties that make it mildly poisonous to humans. Its mass roots protect shorelines of rivers and lakes
 
