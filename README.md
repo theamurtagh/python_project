@@ -67,6 +67,10 @@ I then used scattermatrix to generate a scatterplot diagram.
 
 ![figure_1](https://user-images.githubusercontent.com/36824025/39409125-538063a0-4bd9-11e8-80bb-feb2a6d09333.png)
 
+
+## Conclusions
+I found this investigation really useful- using the tools was a revelation , but I know it was of huge advantage to have done the work prior with finding solutions through fucntions and statements. I also had to really start thinking about information and how to process it- which is an entire other project for me to work on, I saw many examples of people conducting some very quirky and interesting analysis, (eg. Titanic dataset)  which I hope to try myself over the summer.
+
 | 0  | References                                                                   |
 |----|------------------------------------------------------------------------------|
 | 1  | https://en.wikipedia.org/wiki/Iris_flower_data_set                           |
